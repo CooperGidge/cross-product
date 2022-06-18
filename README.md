@@ -12,7 +12,7 @@ npm i
 
 ## Run
 
-Run `cross-product.bat` or use the following command in the `/src` directory.
+Run `cross-product.bat` or use the following command in the `src/` directory.
 
 ```sh
 node index
